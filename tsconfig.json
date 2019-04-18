@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ng7-product-zoom": [
+        "dist/ng7-product-zoom"
+      ],
+      "ng7-product-zoom/*": [
+        "dist/ng7-product-zoom/*"
+      ]
+    }
   }
 }
